@@ -1,6 +1,6 @@
 # Solution to the Rviz Simulation Error
 
-## RViz Simulationo Error
+## RViz Simulation Error
 
 To fix the error related to the missing ```gym``` module and ensure the simulation runs correctly in RViz, the following steps were taken:
 
