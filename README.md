@@ -37,7 +37,7 @@ This is a containerized ROS communication bridge for the F1TENTH gym environment
 
 # Launching the Simulation
 
-1. `tmux` is included in the contianer, so you can create multiple bash sessions in the same terminal.
+1. `tmux` is included in the container, so you can create multiple bash sessions in the same terminal.
 2. To launch the simulation, make sure you source both the ROS2 setup script and the local workspace setup script. Run the following in the bash session from the container:
 ```bash
 source /opt/ros/humble/setup.bash
